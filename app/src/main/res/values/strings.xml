@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GSTCalculator</string>
+    <string name="enter_the_gst_in" />
+    <string name="clear" />
+</resources>
